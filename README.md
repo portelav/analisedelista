@@ -9,7 +9,7 @@ analise_lista/
 
 ## Funcionalidades
 
-A função criada "analisar_lista()" tem como objetivo analisar:
+A função criada "analisar_lista(numeros)" tem como objetivo analisar:
 - quantidade de elementos na lista
 - soma total dos números
 - média dos valores
